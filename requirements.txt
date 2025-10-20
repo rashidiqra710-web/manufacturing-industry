@@ -1,0 +1,11 @@
+# Project Dependencies
+torch
+torchvision
+transformers
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
